@@ -86,4 +86,3 @@ For any questions or issues, please contact:
 ## Acknowledgments
 
 - This project uses the `smtplib` and `pandas` libraries.
-```
